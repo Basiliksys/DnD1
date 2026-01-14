@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9bdd74977d131e77","type":"file","file":"Images/Feria-all.jpg","x":-680,"y":1140,"width":1319,"height":680},
+		{"id":"45e22a695574a30a","type":"file","file":"Images/РегіонБлизько.png","x":-400,"y":1820,"width":959,"height":707}
+	],
+	"edges":[]
+}
