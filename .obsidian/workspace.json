@@ -11,10 +11,14 @@
             "id": "a6a4a3709f51cfb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "D&D1/Гра/Кампанії/27.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "27"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 27"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 27"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Гра/Кампанії/28.md",
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 28"
+              "title": "Outline of 27"
             }
           }
         ]
@@ -179,10 +185,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5c5748f5a70a0c0d",
+  "active": "a6a4a3709f51cfb3",
   "lastOpenFiles": [
+    "D&D1/Гра/Кампанії/26.md",
     "D&D1/Гра/Кампанії/27.md",
     "D&D1/Гра/Кампанії/28.md",
+    "D&D1/Гра/Кампанії/27.md",
     "conflict-files-obsidian-git.md",
     "D&D1/Гра/NPC/Вільні Лицарі.md",
     "D&D1/Images/Feria-all.jpg",
