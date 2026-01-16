@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   "dataview",
   "obsidian-git",
   "obsidian-outliner",
@@ -7,4 +8,14 @@
   "obsidian-timeline",
   "obsidian-image-gallery",
   "statblock-sidekick"
+=======
+  "obsidian-git",
+  "obsidian-admonition",
+  "dataview",
+  "obsidian-image-gallery",
+  "obsidian-leaflet-plugin",
+  "obsidian-outliner",
+  "statblock-sidekick",
+  "obsidian-timeline"
+>>>>>>> origin/main
 ]
