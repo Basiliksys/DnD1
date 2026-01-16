@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D1/Гра/NPC/Вільні Лицарі.md",
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вільні Лицарі"
+              "title": "27"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D1/Гра/NPC/Вільні Лицарі.md",
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вільні Лицарі"
+              "title": "Backlinks for 27"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D1/Гра/NPC/Вільні Лицарі.md",
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Вільні Лицарі"
+              "title": "Outgoing links from 27"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Гра/NPC/Вільні Лицарі.md",
+                "file": "D&D1/Гра/Кампанії/27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Вільні Лицарі"
+              "title": "Outline of 27"
             }
           }
         ]
@@ -180,11 +180,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "a6a4a3709f51cfb3",
   "lastOpenFiles": [
+    "D&D1/Гра/NPC/Вільні Лицарі.md",
+    "D&D1/Гра/Кампанії/27.md",
     "D&D1/Images/Feria-all.jpg",
     "D&D1/Untitled 1.base",
     "D&D1/2026-01-11.md"
