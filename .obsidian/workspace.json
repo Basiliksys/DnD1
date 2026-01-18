@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D1/Основна Інф/Карта Ферії.md",
+                "file": "D&D1/Найтворд/Статистика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Карта Ферії"
+              "title": "Статистика"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "active": "ac90790c2f57f21a",
   "lastOpenFiles": [
+    "D&D1/Основна Інф/Карта Ферії.md",
     "D&D1/Основна Інф/Світ.md",
     "D&D1/Основна Інф/Ферія.md",
     "D&D1/Гра/Кампанії/26.md",
