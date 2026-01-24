@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9cb4f5dc7cd75529",
+    "id": "96b8843cae8b69ec",
     "type": "split",
     "children": [
       {
-        "id": "048e66b916702966",
+        "id": "3dee45f81760031d",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a4a3709f51cfb3",
+            "id": "ac90790c2f57f21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,22 +21,21 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf6ee3474d46fe2",
+    "id": "434b27b022262a31",
     "type": "split",
     "children": [
       {
-        "id": "22a6fc4b8f0c9316",
+        "id": "e1f9701144f204dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5748f5a70a0c0d",
+            "id": "5f545648959deeb9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
-            "id": "c598623090f0bec3",
+            "id": "57c40ef3d1ff7018",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Пошук"
             }
           },
           {
-            "id": "a88cb569db21b326",
+            "id": "3b1fee4499264d0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -82,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "e1fe69debd3a31da",
+    "id": "85dc248ffcf3922f",
     "type": "split",
     "children": [
       {
-        "id": "58daf26f9da2b0ab",
+        "id": "af356396a264060e",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec73229c228546e",
+            "id": "86041670f460c639",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Моделі плагінів"
+              "title": "Зворотні посилання для 26"
             }
           },
           {
-            "id": "21ebc12804588772",
+            "id": "8729a86704b582c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Моделі плагінів"
+              "title": "Вихідні посилання з 26"
             }
           },
           {
-            "id": "5a9adb7d49f08db6",
+            "id": "cf0982026c5b648f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Мітки"
             }
           },
           {
-            "id": "01ec7cf67f6d6d68",
+            "id": "605df5d347e2cdca",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -148,32 +147,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Всі властивості"
             }
           },
           {
-            "id": "41f59f1cad0232fd",
+            "id": "ada7a0f731410101",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Моделі плагінів"
-            }
-          },
-          {
-            "id": "238d7d6102d6c636",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Вміст 26"
             }
           },
           {
@@ -195,19 +184,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "1081ae1274095823",
+  "active": "ac90790c2f57f21a",
   "lastOpenFiles": [
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна/Аристократи.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Основна інформація.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Контори Сулкуна.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун",
+    "D&D1/Основна Інф/Країни/Континент Кірос",
+    "D&D1/Основна Інф/Країни",
     "D&D1/Untitled.base",
     "D&D1/Untitled 1.base",
     "D&D1/Організації/Міжнародні торгові гільдії/Артас.md",
