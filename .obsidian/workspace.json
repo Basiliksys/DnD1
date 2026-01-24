@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D1/Найтворд/Статистика.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "README"
             }
           }
         ]
@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Вміст 26"
             }
+          },
+          {
+            "id": "6fb2b166a5b843bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +197,21 @@
   },
   "active": "ac90790c2f57f21a",
   "lastOpenFiles": [
+    "D&D1/Untitled.base",
+    "D&D1/Untitled 1.base",
+    "D&D1/Організації/Міжнародні торгові гільдії/Артас.md",
+    "D&D1/2026-01-11.md",
+    "D&D1/Гра/Гравці/Андрій.md",
+    "D&D1/Гра/Гравці/Даніель.md",
+    "D&D1/Гра/Кампанії/2.md",
+    "D&D1/Гра/Кампанії/26.md",
+    "D&D1/Гра/Кампанії/23.md",
+    "D&D1/Гра/Кампанії/4.md",
+    "D&D1/Гра/Кампанії/1.md",
+    "D&D1/Найтворд/Статистика.md",
     "D&D1/Основна Інф/Карта Ферії.md",
     "D&D1/Основна Інф/Світ.md",
     "D&D1/Основна Інф/Ферія.md",
-    "D&D1/Гра/Кампанії/26.md",
-    "D&D1/Гра/Кампанії/23.md",
     "D&D1/Гра/Кампанії/28.md"
   ]
 }
