@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "96b8843cae8b69ec",
+    "id": "9cb4f5dc7cd75529",
     "type": "split",
     "children": [
       {
-        "id": "3dee45f81760031d",
+        "id": "048e66b916702966",
         "type": "tabs",
         "children": [
           {
-            "id": "ac90790c2f57f21a",
+            "id": "a6a4a3709f51cfb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,21 +21,22 @@
               "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "434b27b022262a31",
+    "id": "ebf6ee3474d46fe2",
     "type": "split",
     "children": [
       {
-        "id": "e1f9701144f204dd",
+        "id": "22a6fc4b8f0c9316",
         "type": "tabs",
         "children": [
           {
-            "id": "5f545648959deeb9",
+            "id": "5c5748f5a70a0c0d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +45,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловий менеджер"
+              "title": "Files"
             }
           },
           {
-            "id": "57c40ef3d1ff7018",
+            "id": "c598623090f0bec3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +62,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Пошук"
+              "title": "Search"
             }
           },
           {
-            "id": "3b1fee4499264d0f",
+            "id": "a88cb569db21b326",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "85dc248ffcf3922f",
+    "id": "e1fe69debd3a31da",
     "type": "split",
     "children": [
       {
-        "id": "af356396a264060e",
+        "id": "58daf26f9da2b0ab",
         "type": "tabs",
         "children": [
           {
-            "id": "86041670f460c639",
+            "id": "0ec73229c228546e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D1/Гра/Кампанії/26.md",
+                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання для 26"
+              "title": "Backlinks for Моделі плагінів"
             }
           },
           {
-            "id": "8729a86704b582c7",
+            "id": "21ebc12804588772",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D1/Гра/Кампанії/26.md",
+                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання з 26"
+              "title": "Outgoing links from Моделі плагінів"
             }
           },
           {
-            "id": "cf0982026c5b648f",
+            "id": "5a9adb7d49f08db6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,11 +134,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Мітки"
+              "title": "Tags"
             }
           },
           {
-            "id": "605df5d347e2cdca",
+            "id": "01ec7cf67f6d6d68",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +148,32 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Всі властивості"
+              "title": "All properties"
             }
           },
           {
-            "id": "ada7a0f731410101",
+            "id": "41f59f1cad0232fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Гра/Кампанії/26.md",
+                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Вміст 26"
+              "title": "Outline of Моделі плагінів"
+            }
+          },
+          {
+            "id": "238d7d6102d6c636",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -184,18 +195,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Відкрити провідник файлів": false,
-      "graph:Граф": false,
-      "canvas:Створити нове полотно": false,
-      "daily-notes:Сьогоднішня нотатка": false,
-      "templates:Вставити шаблон": false,
-      "command-palette:Відкрити меню команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ac90790c2f57f21a",
+  "active": "1081ae1274095823",
   "lastOpenFiles": [
     "D&D1/Untitled.base",
     "D&D1/Untitled 1.base",
