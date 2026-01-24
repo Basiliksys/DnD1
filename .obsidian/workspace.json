@@ -11,16 +11,13 @@
             "id": "ac90790c2f57f21a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D&D1/Основна Інф/Ферія.canvas",
-                "viewState": {
-                  "x": -20.5,
-                  "y": 1833.5,
-                  "zoom": -0.6653625123034957
-                }
+                "file": "D&D1/Основна Інф/Ферія.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Ферія"
             }
           }
@@ -200,6 +197,7 @@
   },
   "active": "ac90790c2f57f21a",
   "lastOpenFiles": [
+    "D&D1/Основна Інф/Ферія.canvas",
     "README.md",
     "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна/Аристократи.md",
     "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна",
