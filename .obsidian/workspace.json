@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Невідомі"
             }
+          },
+          {
+            "id": "f2aad815a22f00e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +204,10 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac90790c2f57f21a",
+  "active": "f2aad815a22f00e3",
   "lastOpenFiles": [
     "D&D1/Гра/NPC/Друзі.md",
     "D&D1/Гра/NPC/Невідомі.md",
