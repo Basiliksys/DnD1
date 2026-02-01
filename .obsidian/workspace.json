@@ -25,12 +25,14 @@
             "id": "f2aad815a22f00e3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "split-diff-view",
               "state": {
-                "currentVersion": "1.11.5"
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -204,11 +206,14 @@
       "templates:Вставити шаблон": false,
       "command-palette:Відкрити меню команд": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "f2aad815a22f00e3",
   "lastOpenFiles": [
+    "D&D1/Гра/Легендарні Артефакти/Первый Гром.md",
+    "D&D1/Гра/Легендарні Артефакти/Шкатулка Морського Бога.md",
     "D&D1/Гра/NPC/Друзі.md",
     "D&D1/Гра/NPC/Невідомі.md",
     "D&D1/Гра/NPC/Таблиця.md",
@@ -216,8 +221,6 @@
     "D&D1/Гра/NPC/Вороги.md",
     "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна/Аристократи.md",
     "D&D1/Гра/Сильні Монстри",
-    "D&D1/Гра/Легендарні Артефакти/Шкатулка Морського Бога.md",
-    "D&D1/Гра/Легендарні Артефакти/Первый Гром.md",
     "D&D1/Гра/Гравці/Андрій.md",
     "D&D1/Гра/Легендарні Артефакти",
     "D&D1/Гра/Кампанії/27.md",
