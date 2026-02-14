@@ -39,12 +39,12 @@
             "id": "c2be3b6773b54bc6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "D&D1/Images/Feria-all.jpg"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-image",
+              "title": "Feria-all"
             }
           }
         ],
@@ -236,6 +236,7 @@
   },
   "active": "c2be3b6773b54bc6",
   "lastOpenFiles": [
+    "D&D1/Images/РегіонБлизько.png",
     "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Основна інформація.md",
     "D&D1/Основна Інф/Ціна.md",
     "D&D1/Основна Інф/Світ.md",
@@ -266,7 +267,6 @@
     "D&D1/Гра/Сильні Монстри/Синій Дракон Талфалда.md",
     "D&D1/Основна Інф/Ферія.canvas",
     "gemini-scribe/AGENTS.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
