@@ -27,13 +27,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: community-plugins.json  (Index)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
