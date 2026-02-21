@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "26"
             }
+          },
+          {
+            "id": "60d412a8d852683e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "D&D1/Гра/Кампанії/Untitled.md",
+                "bFile": "D&D1/Гра/Кампанії/Untitled.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,8 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "121b56bdf30b1cd2",
+  "active": "60d412a8d852683e",
   "lastOpenFiles": [
+    "D&D1/Гра/Кампанії/Untitled.md",
+    "D&D1/Гра/Кампанії/29.md",
+    "D&D1/Гра/Кампанії/28.md",
+    "D&D1/Гра/Кампанії/26.md",
     "D&D1/Основна Інф/Ціна.md",
     "gemini-scribe/AGENTS.md",
     "gemini-scribe/Agent-Sessions/Agent Session 01.02.2026.md",
@@ -234,12 +252,10 @@
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
-    "D&D1/Гра/Кампанії/26.md",
     "D&D1/Найтворд/Статистика.md",
     "D&D1/Основна Інф/Карта Ферії.md",
     "D&D1/Основна Інф/Світ.md",
     "D&D1/Основна Інф/Ферія.md",
-    "D&D1/Гра/Кампанії/23.md",
-    "D&D1/Гра/Кампанії/28.md"
+    "D&D1/Гра/Кампанії/23.md"
   ]
 }
