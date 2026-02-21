@@ -1,56 +1,70 @@
 {
   "main": {
-    "id": "9cb4f5dc7cd75529",
+    "id": "96b8843cae8b69ec",
     "type": "split",
     "children": [
       {
-        "id": "048e66b916702966",
+        "id": "3dee45f81760031d",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a4a3709f51cfb3",
+            "id": "ac90790c2f57f21a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D1/Гра/Кампанії/Спешл(24-25).md",
+                "file": "D&D1/Гра/NPC/Невідомі.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Спешл(24-25)"
+              "title": "Невідомі"
             }
           },
           {
-            "id": "121b56bdf30b1cd2",
+            "id": "f2aad815a22f00e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gemini-scribe/AGENTS.md",
+                "file": "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції/Аристократи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "Аристократи"
+            }
+          },
+          {
+            "id": "c2be3b6773b54bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D&D1/Гра/Кампанії/28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf6ee3474d46fe2",
+    "id": "434b27b022262a31",
     "type": "split",
     "children": [
       {
-        "id": "22a6fc4b8f0c9316",
+        "id": "e1f9701144f204dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5748f5a70a0c0d",
+            "id": "5f545648959deeb9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +73,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловий менеджер"
             }
           },
           {
-            "id": "c598623090f0bec3",
+            "id": "57c40ef3d1ff7018",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,17 +90,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Пошук"
             }
           },
           {
-            "id": "a88cb569db21b326",
+            "id": "3b1fee4499264d0f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -96,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "e1fe69debd3a31da",
+    "id": "85dc248ffcf3922f",
     "type": "split",
     "children": [
       {
-        "id": "58daf26f9da2b0ab",
+        "id": "af356396a264060e",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec73229c228546e",
+            "id": "86041670f460c639",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Моделі плагінів"
+              "title": "Зворотні посилання для 26"
             }
           },
           {
-            "id": "21ebc12804588772",
+            "id": "8729a86704b582c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Моделі плагінів"
+              "title": "Вихідні посилання з 26"
             }
           },
           {
-            "id": "5a9adb7d49f08db6",
+            "id": "cf0982026c5b648f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,11 +162,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Мітки"
             }
           },
           {
-            "id": "01ec7cf67f6d6d68",
+            "id": "605df5d347e2cdca",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,26 +176,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Всі властивості"
             }
           },
           {
-            "id": "41f59f1cad0232fd",
+            "id": "ada7a0f731410101",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
+                "file": "D&D1/Гра/Кампанії/26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Моделі плагінів"
+              "title": "Вміст 26"
             }
           },
           {
-            "id": "238d7d6102d6c636",
+            "id": "6fb2b166a5b843bf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,54 +203,78 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fe4b5ca32f8ede95",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Відкрити провідник файлів": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити меню команд": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-git:Open Git source control": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "121b56bdf30b1cd2",
+  "active": "5f545648959deeb9",
   "lastOpenFiles": [
+    "D&D1/Гра/Кампанії/29.md",
     "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Основна інформація.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд",
     "D&D1/Організації/Найманці/Піхотинці Берта/Основна інформація.md",
+    "D&D1/Основна Інф/Ферія.canvas",
+    "D&D1/Основна Інф/Ферія.md",
+    "D&D1/Основна Інф/Ціна.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Основна інформація.md",
+    "D&D1/Організації/Міжнародні торгові гільдії/Артас.md",
+    "D&D1/Гра/Трекери.md",
+    "D&D1/Основна Інф/Світ.md",
+    "D&D1/Технічне/Теги.md",
+    "D&D1/Технічне/Шаблон Кампанії.md",
+    "D&D1/Images/РегіонБлизько.png",
+    "D&D1/Images/Feria-all.jpg",
+    "D&D1/Untitled.base",
+    "D&D1/Untitled 1.base",
+    "D&D1/Основна Інф/Таймлайн.md",
+    "D&D1/Основна Інф/Карта Ферії.md",
+    "D&D1/Технічне/Моделі плагінів.md",
+    "D&D1/Технічне/Шаблон НПС.md",
+    "D&D1/Гра/NPC/Невідомі.md",
+    "D&D1/Гра/NPC/Друзі.md",
+    "D&D1/Гра/NPC/Вороги.md",
     "D&D1/Організації/Найманці/Піхотинці Берта",
     "D&D1/Організації/Найманці",
-    "D&D1/Гра/Сильні Монстри/Синій Дракон Талфалда.md",
-    "D&D1/Гра/Сильні Монстри",
-    "D&D1/Гра/Легендарні Артефакти/Шкатулка Морського Бога.md",
-    "D&D1/Гра/Легендарні Артефакти/Первый Гром.md",
-    "D&D1/Гра/Легендарні Артефакти",
-    "gemini-scribe/Prompts/example-expert.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Контори Сулкуна.md",
+    "D&D1/Гра/NPC/Вільні Лицарі.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Основна інформація.md",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції",
+    "D&D1/Гра/Кампанії/28.md",
+    "D&D1/Гра/Кампанії/27.md",
     "gemini-scribe/Agent-Sessions/Agent Session 01.02.2026.md",
-    "gemini-scribe/Prompts",
+    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд",
+    "D&D1/Гра/Система/Система.md",
     "gemini-scribe/example-prompts.json",
-    "gemini-scribe/AGENTS.md",
     "gemini-scribe/Agent-Sessions",
-    "gemini-scribe",
-    "D&D1/Гра/Кампанії/26.md",
-    "D&D1/Найтворд/Статистика.md",
-    "D&D1/Основна Інф/Карта Ферії.md",
-    "D&D1/Основна Інф/Світ.md",
-    "D&D1/Основна Інф/Ферія.md",
-    "D&D1/Гра/Кампанії/23.md",
-    "D&D1/Гра/Кампанії/28.md"
+    "gemini-scribe/Prompts",
+    "gemini-scribe"
   ]
 }
