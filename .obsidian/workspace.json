@@ -25,14 +25,14 @@
             "id": "121b56bdf30b1cd2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "gemini-scribe/AGENTS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "AGENTS"
             }
           }
         ],
@@ -210,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "238d7d6102d6c636",
+  "active": "121b56bdf30b1cd2",
   "lastOpenFiles": [
     "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції/Аристократи.md",
     "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції",
