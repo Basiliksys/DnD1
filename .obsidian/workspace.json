@@ -21,8 +21,7 @@
               "title": "Статистика"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,11 +191,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1081ae1274095823",
+  "active": "5c5748f5a70a0c0d",
   "lastOpenFiles": [
     "D&D1/Основна Інф/Карта Ферії.md",
     "D&D1/Основна Інф/Світ.md",
