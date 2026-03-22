@@ -1,66 +1,20 @@
 {
   "main": {
-    "id": "9cb4f5dc7cd75529",
+    "id": "f34e169437819d1a",
     "type": "split",
     "children": [
       {
-        "id": "048e66b916702966",
+        "id": "edf96bb083206cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a4a3709f51cfb3",
+            "id": "f7389772bf4c91b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D1/Організації/Іконоборці.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Іконоборці"
-            }
-          },
-          {
-            "id": "121b56bdf30b1cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D1/Гра/Кампанії/26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26"
-            }
-          },
-          {
-            "id": "60d412a8d852683e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D1/Гра/NPC/Невідомі.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Невідомі"
-            }
-          },
-          {
-            "id": "8bf92682ef83395d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Сулкун(Столиця).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сулкун(Столиця)"
+              "title": "New tab"
             }
           }
         ]
@@ -69,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf6ee3474d46fe2",
+    "id": "8f7a08de7288c4bb",
     "type": "split",
     "children": [
       {
-        "id": "22a6fc4b8f0c9316",
+        "id": "a6c9856fa2d5b6da",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5748f5a70a0c0d",
+            "id": "5aa6ed95054cc137",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,7 +44,7 @@
             }
           },
           {
-            "id": "c598623090f0bec3",
+            "id": "934ce8e74750ac61",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +61,7 @@
             }
           },
           {
-            "id": "a88cb569db21b326",
+            "id": "e3f7b48938dcfc25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "e1fe69debd3a31da",
+    "id": "88c843a7f417cb32",
     "type": "split",
     "children": [
       {
-        "id": "58daf26f9da2b0ab",
+        "id": "ed0bf660f3f03852",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec73229c228546e",
+            "id": "9483f6daeec72d7f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Моделі плагінів"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "21ebc12804588772",
+            "id": "7abf90c7a18e38a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Моделі плагінів"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5a9adb7d49f08db6",
+            "id": "a66f2b703f4f9449",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -179,7 +131,7 @@
             }
           },
           {
-            "id": "01ec7cf67f6d6d68",
+            "id": "5260811f12222f8f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -193,32 +145,20 @@
             }
           },
           {
-            "id": "41f59f1cad0232fd",
+            "id": "2e80340b514577ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "D&D1/Технічне/Моделі плагінів.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Моделі плагінів"
-            }
-          },
-          {
-            "id": "238d7d6102d6c636",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,45 +178,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6a4a3709f51cfb3",
-  "lastOpenFiles": [
-    "ОхотнікБілий.png",
-    "ОхотнікЧорний.png",
-    "D&D1/Гра/NPC/Невідомі.md",
-    "D&D1/Гра/NPC/Друзі.md",
-    "D&D1/Гра/NPC/Вороги.md",
-    "D&D1/Основна Інф/Ціна.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Північ/Шанегеру.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Північ/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Південь/Беоркок.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Захід/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Захід/Інгіру.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Схід/Аррукан.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Схід/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Південь/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Фракції Сулкуна/Аристократи.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Південь",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Схід",
-    "Untitled",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Схід.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Центр/Центр.md",
-    "D&D1/Гра/Кампанії/34.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Захід",
-    "D&D1/Гра/Кампанії/33.md",
-    "D&D1/Основна Інф/Карта Ферії.md",
-    "D&D1/Основна Інф/Світ.md",
-    "D&D1/Найтворд/Статистика.md",
-    "D&D1/Основна Інф/Ферія.md",
-    "D&D1/Основна Інф/Ферія.canvas",
-    "D&D1/Технічне/Шаблон Кампанії.md",
-    "D&D1/Технічне/Теги.md",
-    "D&D1/Технічне/Моделі плагінів.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Центр",
-    "D&D1/Гра/Легендарні Артефакти/Первый Гром.md",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Сулкун/Північ",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд/Фракції",
-    "D&D1/Основна Інф/Країни/Континент Кірос/Талфальд",
-    "D&D1/Організації/Найманці/Піхотинці Берта",
-    "D&D1/Організації/Найманці"
-  ]
+  "active": "f7389772bf4c91b5",
+  "lastOpenFiles": []
 }
